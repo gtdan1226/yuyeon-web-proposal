@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" fill="none">
+<title>건축의 구조를 표현한 유연종합건설 기업 그래픽</title>
+<rect width="1200" height="900" fill="#eaf0f5"/>
+<g stroke="#cbd7e1" stroke-width="1"><path d="M0 700H1200M0 760H1200M0 820H1200M150 0V900M350 0V900M550 0V900M750 0V900M950 0V900M1150 0V900"/></g>
+<path d="M245 710V260L610 100 956 285V710" fill="#f8fafc"/>
+<path d="M610 100V710H956V285Z" fill="#d2dfea"/>
+<path d="M245 260 610 100 956 285M245 260 610 449 956 285M610 449V820M245 260V710L610 820 956 710V285" stroke="#235476" stroke-width="3"/>
+<path d="M245 710 610 820 956 710 610 599Z" fill="#dfe9f1"/>
+<path d="M610 449V820M245 710 610 820 956 710" stroke="#235476" stroke-width="3"/>
+<g stroke="#7495b0" stroke-width="1.8"><path d="m245 322 365 182 346-163M245 385l365 175 346-163M245 448l365 169 346-163M245 511l365 163 346-163M245 574l365 156 346-163M245 637l365 150 346-163"/><path d="M305 291V729M366 323V747M427 354V766M488 386V784M549 418V802M668 422V802M725 395V784M783 368V765M840 341V747M898 313V729"/></g>
+<path d="M245 260 610 100 956 285" stroke="#005aaa" stroke-width="7"/>
+<path d="M245 260V710M610 449V820" stroke="#005aaa" stroke-width="5"/>
+<g stroke="#91a9bc" stroke-dasharray="6 7"><path d="M180 230 610 40 1015 258M180 230V741L610 872 1015 741V258M610 40V872M1015 258 610 449 180 230"/></g>
+<g fill="#005aaa"><circle cx="610" cy="100" r="7"/><circle cx="245" cy="260" r="7"/><circle cx="956" cy="285" r="7"/><circle cx="610" cy="449" r="7"/></g>
+<path d="M70 820h60m-30-30v60M1070 100h60m-30-30v60" stroke="#6989a4" stroke-width="2"/>
+</svg>
